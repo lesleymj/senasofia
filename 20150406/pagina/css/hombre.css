@@ -1,0 +1,62 @@
+#header {
+position: fixed;
+top: 1px;
+width: 100%;
+text-align: right;
+}
+#header img {
+	position: absolute;
+	left: 1px;
+}
+#titulodeencabezado {
+	font-family: Arial;
+	font-size: 20px;
+}
+#footer {
+position: fixed;
+bottom: 1px;
+width: 100%;
+text-align: center;
+}
+#titulopiedepagina {
+	font-family: Arial;
+	font-size: 12px;
+}
+#tablaprincipal {
+margin: 65px;
+}
+#tablaprincipal td {
+text-align: left;
+}
+#tablaprincipal a {
+	text-decoration: none;
+}
+#tablaprincipal a:hover {
+	text-decoration: none;
+	color: green;
+	font-weight: bold;
+}
+#tablaprincipal2 {
+margin: 250px;
+}
+#tablaprincipal2 td {
+text-align: center;
+}
+#tablaprincipal2 a {
+	text-decoration: none;
+}
+#tablaprincipal2 a:hover {
+	text-decoration: none;
+	color: green;
+	font-weight: bold;
+}
+body {
+	background-color: #7678F0;
+}
+#nombre {
+text-align: center;
+}
+#valor {
+text-align: center;
+color:blue;
+}

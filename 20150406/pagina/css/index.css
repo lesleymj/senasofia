@@ -1,0 +1,37 @@
+#header {
+position: fixed;
+top: 80px;
+width: 100%;
+text-align: center;
+}
+#titulodeencabezado {
+	font-family: Arial;
+	font-size: 20px;
+}
+#footer {
+position: fixed;
+bottom: 1px;
+width: 100%;
+text-align: center;
+}
+#titulopiedepagina {
+	font-family: Arial;
+	font-size: 12px;
+}
+#tablaprincipal {
+margin: 150px;
+}
+#tablaprincipal td {
+text-align: center;
+}
+#tablaprincipal a {
+	text-decoration: none;
+}
+#tablaprincipal a:hover {
+	text-decoration: none;
+	color: #DDA2D7;
+	font-weight: bold;
+}
+body {
+	background-color: #8BEFDE;
+}

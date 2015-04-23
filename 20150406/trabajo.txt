@@ -1,0 +1,24 @@
+﻿Muchachos espero que hayan tenido una excelente semana santa y que hayan podido poner en orden diferentes aspectos de su vida inlcuido el descanso que es tan necesario.
+
+Ya que es tan importante el descanso decidi no ponerlos a trabajar esa semana pero hoy si les envio el trabajo de HTML el cual debe ser enviado a mas tardar el viernes a las 6PM.
+
+Requirimientos del trabajo:
+Deben realizar un sitio web para una empresa de moda la cual tiene lineas para hombres y mujeres. En cada una de esas lineas la empresa quiere mostrar su nueva colección de tres productos que maneja tanto para hombres como para mujeres.
+
+En el homepage se debe presentar la posibilidad de seleccionar la linea que desea observar el visitante al sitio y dentro de la pagina de cada linea se deben listar (usando listas no ordenadas) las tres categorias de productos que quiere mostrar la empresa. Al seleccionar cada categoria se deben mostrar al menos productos de cada una de ellas. De cada producto se debe mostrar el nombre o modelo, el precio y un enlace para comprarlo.
+
+Restricciones: 
+* Cada una de las paginas debe manejar su estilo (color de fondo, color de texto, color de enlaces, etc) utilizando CSS. El o los archivos CSS deben estar dentro de una carpeta CSS.
+* Todas la imagenes utilizadas en el sitio deben estar dentro de una carpeta imagenes y dentro de esta carpeta deben estar clasificadas dentro de su linea y categoria ejemplo: imagenes/dama/jeans/ 
+* Todos los enlaces excepto los ubicados en el header (encabezado) deben presentarse sin subrayado. Cada uno de los enlaces debe cambiar de color cuando el puntero del mouse se ubique sobre el sin necesidad de darle click, ademas el texto al tener el puntero del mouse sobre el debe cambiar a negrilla (mas grueso).
+* El estilo visual del sitio en la pagina principal debe ser unisex y en cada una de sus lineas (hombres y mujeres) debe ser acorde a la linea donde se encuentre el visitante. El cambio debe ser sutil pero notable.
+* El enlace de comprar actuamente dirigira a la pagina principal.
+* En el footer (pie de pagina) debe incluirse la leyenda de protección de derechos de autor.
+* En el transcurso del desarrollo el cliente podra realizar otros requerimientos o cambios en el sitio web.
+
+PD: ya que no contaremos con un conexión a internet de buena calidad esta tarde deberan llevar este trabajo y sus requerimientos en una USB para poder comenzar su desarrollo ademas de los apuntes que crean necesarios.
+
+Cordialmente,
+
+
+Freddy Camperos
